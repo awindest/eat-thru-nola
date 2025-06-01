@@ -359,7 +359,7 @@ Cooking Instructions:
       </div>
     {/each}
   </div>
-<!-- 
+
   <div class="mobile-tabs {navOpen ? 'open' : ''}">
     {#each dishes as dish}
       <div
@@ -368,7 +368,7 @@ Cooking Instructions:
         {dish.name}
       </div>
     {/each}
-  </div> -->
+  </div>
 
   <div>
     <h2 class="text-3xl font-semibold mb-3 text-gray-800">{selected.name}</h2>
