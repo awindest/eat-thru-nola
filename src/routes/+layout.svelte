@@ -14,5 +14,6 @@
     }
     :global(body) {
         font-family: 'TamaraElainaDemoRegular', san-serif;
+        line-height: 1.5; 
     }
 </style>
