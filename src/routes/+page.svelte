@@ -4,6 +4,11 @@
 
 
   let selected = dishes[0];
+
+  function goToTop() {
+    document.body.scrollIntoView()
+  }
+
 </script>
 
 
@@ -24,7 +29,7 @@
       <button type="button"
         class="tab {selected.name === dish.name ? 'active' : ''}"
         onclick={() => { selected = dish }}>
-        {dish.name}
+       {dish.name}
       </button>
     {/each}
   </div>
@@ -33,10 +38,14 @@
 
   <div class="centered-div">
     <h2>{selected.name}</h2>
-    <img src={selected.image} class="recipe-img" alt={selected.name} title={selected.title}/>
-        <div>
-            <pre>{selected.name}<br><br>{selected.recipe}</pre>
-        </div>
+    <input type="checkbox" name="" id="zoom_img">
+    <label for="zoom_img">
+      <img src={selected.image} class="recipe-img" alt={selected.name} title={selected.title}/>
+    </label>
+    <div>
+        <pre>{selected.name}<br><br>{selected.recipe}</pre>
+    </div>
+    <button type="button" class="tab"onclick={goToTop}>Go Back To The Top</button>
   </div>
 </div>
 
@@ -52,7 +61,10 @@
   button {
     font-family: inherit;
     font-size: 1rem;
+    font-weight: 800;
     border-color: #b497d5;
+    border-style: solid;
+    color: #000000;
     /* These are for responsiveness: */
     min-width: 1.6cm;
     min-height: 1.6cm;
@@ -73,7 +85,6 @@
     padding-bottom: 1rem;
     margin-bottom: 2rem;
     scroll-snap-type: x mandatory;
-    color: red;
   }
 
   .tab {
@@ -85,7 +96,6 @@
     cursor: pointer;
     transition: all 0.3s ease;
     scroll-snap-align: start;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     flex-shrink: 0;
   }
   .tab:hover {
@@ -102,10 +112,15 @@
     transition: 1s;
   }
   img:hover {
-    -webkit-transform:scale(1.5); /* or some other value */
-    transform:scale(1.5);
     cursor: zoom-in;
-} 
+  }
+  input[type=checkbox] {
+    display: none;
+  }
+  input[type=checkbox]:checked ~ label > img {
+    transform: scale(1.5);
+    cursor: zoom-out;
+  }
   .tile-img {
     display: inline-block;
     margin-bottom: -.75rem;

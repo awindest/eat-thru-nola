@@ -60,6 +60,7 @@ Ingredients:
 1 tablespoon parsley, chopped
 
 Cooking Instructions:
+
 1. In a sauté pan, make the blonde roux first. Melt butter on low-medium heat, then add flour and wisk continuosly for about 10 minutes until it starts to turn light blonde color and smells a little 'nutty'. Time may vary; it's more about the color and smell.
 2. Add roux in a cold stock pot to stop the cooking, and add cold chicken stock and corn. Bring to a boil, stirring occasionally. Reduce to simmer, add fresh garlic and garlic flakes, thyme, and rosemary (if desired). Simmer for 10-12 minutes.
 3. Add cream, crab, cajun seasoning, crab boil seasoning. Simmer another 10 minutes.
@@ -144,6 +145,7 @@ Ingredients:
 6 ears corn, shucked and halved crosswise or 12 frozen mini corn-on-the-cob
 
 Cooking Instructions:
+
 1. Pour live crawfish into a washtub or ice chest; cover with water. Wait about a beer as purging takes time. Drain. Repeat 3 to 4 times until crawfish are clean and you are laughing uncontrollably. Drain. Discard any dead crawfish and debris.
 2. Mix 8 quarts water, Crab Boil, onion and garlic in large (20-quart) stockpot. Bring to boil on high heat; boil 5 minutes. Add potatoes; boil 5 minutes. Add crawfish and corn; return to boil. Cover and cook 2 minutes.
 3. Turn off heat and let stand 20 minutes. Add about 6 to 8 cups of ice to stockpot; let stand 20 minutes to cool. Drain and serve.`
@@ -174,6 +176,7 @@ Ingredients:
 2 tablespoons dry sherry (or more according to personal taste) Do not use cream sherry!
 
 Cooking Instructions:
+
 1. Heat the oil in a large, heavy pot or Dutch oven over medium-high heat. 
 2. Season the turtle with 1 teaspoon of the salt and black pepper. 
 3. Add the meat and brown evenly, stirring constantly, for about 10 minutes. Remove from the heat and transfer the meat to a platter. Cover lightly and set aside.
@@ -286,6 +289,7 @@ Sliced tomato
 Dill pickle chips
 Mayonnaise
 Favorite hot sauce
+
 Cooking Instructions:
 
 1. Cook crab - fry or saute.
@@ -323,6 +327,7 @@ salt and freshly ground white pepper to taste
 2 medium vine-ripened tomatoes, cored and cut into six 1-inch-thick slices
 
 Cooking Instructions:
+
 1. Combine the egg yolks, vinegar, mustard, and lemon juice in a food processor and process for 2 minutes. 
 2. With the processor running, add the oil slowly in a thin stream and process until emulsified.
 3. Remove to a mixing bowl and gently fold in the capers, green onions, and parsley.
@@ -351,6 +356,7 @@ salt and freshly ground white pepper to taste
 2 medium vine-ripened tomatoes, cored and cut into six 1-inch-thick slices
 
 Cooking Instructions:
+
 1. Combine the egg yolks, vinegar, mustard, and lemon juice in a food processor and process for 2 minutes. 
 2. With the processor running, add the oil slowly in a thin stream and process until emulsified.
 3. Remove to a mixing bowl and gently fold in the capers, green onions, and parsley.
@@ -406,6 +412,7 @@ Ingredients:
 6 Lemon Wedges
 
 Cooking Instructions:
+
 1. Heat the oil to 350℉ in a large sauté pan. In a separate, medium sauté pan, cook the bacon over medium heat for 3 to 4 minutes. Drain on paper towels. 
 2. To assemble the brochettes, skewer 1 piece of bacon then 2 oysters. Repeat twice and end with an additional piece of bacon for a total of 4 pieces of bacon and 6 oysters. Repeat for 5 more skewers.
 3. In a medium bowl, whisk together eggs and milk. Dip the skewers into the egg wash. Allow excess to drip off.
@@ -421,6 +428,7 @@ Meuniére Sauce
 1 tablespoon Red Wine Vinegar
 
 Cooking Instructions:
+
 1. In a medium saucepan over medium heat, melt the butter, whisking constantly for 8 to 10 minutes, until the sediment in the butter turns dark brown, almost (but not quite) to the point of burning, and the liquid is a deep golden color. 
 2. Remove the pan from heat and continue to whisk slowly, adding the lemon juice and the vinegar to the browned butter.
 3. The sauce will froth until the acids have evaporated. When the frothing subsides, the sauce is complete.
