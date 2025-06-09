@@ -56,7 +56,8 @@
     padding: 2rem;
     background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
     border-radius: 1rem;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); */
+    box-shadow: var(--shadow-elevation-medium);
   }
   button {
     font-family: inherit;
@@ -124,12 +125,16 @@
   .tile-img {
     display: inline-block;
     margin-bottom: -.75rem;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1); */
+    box-shadow: var(--shadow-elevation-medium);
+
   }
   .recipe-img {
     max-width: 100%;
     border-radius: 1.5rem;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+     */
+    box-shadow: var(--shadow-elevation-medium);
     margin-bottom: 1.5rem;
     -ms-interpolation-mode: bicubic;
     vertical-align: bottom;
@@ -145,7 +150,9 @@
     border-left: 4px solid #147A19;
     border-right: 4px solid #b497d5;
     border-radius: 0.5rem;
-    box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+    /* box-shadow: inset 0 1px 3px rgba(0,0,0,0.05); */
+        box-shadow: var(--shadow-elevation-medium);
+
     overflow-x: auto;
     cursor: text;
   }
