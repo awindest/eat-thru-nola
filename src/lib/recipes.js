@@ -43,7 +43,9 @@ Here's a tip: If you have the shells (or better yet, and the heads) cook them in
       image: "/corn-crab-bisque.png",
       title: "Delicious Corn and Crab Claw Bisque enriches the soul and helps you forget your worries. Eat it slowly with some warm bread. Taste every bite. So good!",
       recipe: `Serves six people and takes about an hour to make.
+
 Ingredients:
+
 1⁄2 cup flour
 1⁄2 cup butter or a whole stick
 1 quart heavy cream, warm to room temperature
@@ -96,6 +98,7 @@ Cooking instructions:
       image: "/jambalaya.png",
       title: "Jambalaya - best way to snazz rice up.",
       recipe: `Serves six (but you will have leftovers) and takes about two hours to make. Prepare the rice the day before.
+
 Ingredients:
 
 2 cups of nice long grain or jasmine or basmati rice
@@ -117,6 +120,8 @@ hot sauce to taste
 1 8 oz can of tomato sauce for color. You won't use all of it or maybe you will.
 1/2 cup of chopped parsely for garnish
 
+Cooking instructions:
+
 1. Cook the rice the day before. Under cook just a little. Rinse rice with cold water in a colander to stop cooking. Put colander on a plate and in refrigerator uncovered. The reason is you want all the juices and seasonings to be absorbed when you assemble the jambalaya. Take the colander out when you start making the jambalaya to let it get to room temperature.
 2 - 3. You are going to do two things in parallel: 2 a - c and 3 a - c.
 2a. Brown Andouille sausage and put aside. Save the grease.
@@ -135,7 +140,9 @@ hot sauce to taste
       image: "/boiled-crawfish.png",
       title: "I don't know why people don't cook like this all the time. So much flavor and fun to eat too!",
       recipe: `Serves about four people and takes about an hour to make
+
 Ingredients:
+
 12 - 15 pounds live crawfish
 8 quarts water
 1 package (16 ounces) Zatarain's® Preseasoned Crab Boil
@@ -155,7 +162,9 @@ Cooking Instructions:
       image: "/turtle-soup.png",
       title: "No ninja jokes please. Don't put too much sherry in it.",
       recipe: `Makes 8 to 10 servings (about 3 quarts)
+
 Ingredients:
+
 1/4 cup vegetable oil
 2 pounds turtle meat, cleaned and finely chopped
 1 tablespoon salt
@@ -195,7 +204,9 @@ Cooking Instructions:
       image: "/crawfish-etouffee.png",
       title: "One of the best ways to eat crawfish.",
       recipe: `Serves about six hungry people and takes a couple of hours to make if you've got the crawfish stock ready.
+
 Ingredients:
+
 2 cups vegetable oil
 1 large onion, diced (about 2 cups)
 3 cups all purpose flour
@@ -225,6 +236,7 @@ Crawfish Stock
 20 minutes to prep and about four hours of cooking time. Yeah, this takes a long time but it is so worth it!
 
 Ingredients:
+
 16 to 20 cups cold water
 4 to 6 quarts crawfish shells and claws
 ¼ cup melted butter
@@ -369,6 +381,7 @@ Cooking Instructions:
 Galatoire's Shrimp Remoulade
 
 Ingredients:
+
 3/4 cup of chopped celery
 3/4 cup of chopped green onions (white & green parts)
 1/3 cup of chopped parsley
@@ -401,6 +414,7 @@ Cooking Instructions:
 Galatoire's Oysters en Brochette
 
 Ingredients:
+
 1 quart Vegetable Oil
 12 thick cut slices smoked Bacon, cut in half
 36 large shucked Oysters
